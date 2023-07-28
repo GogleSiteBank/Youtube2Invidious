@@ -10,4 +10,4 @@
 <li type=1>Copy ConsoleScript.js' contents</li>
 <li type=1>Press control+shift+I</li>
 <li type=1>Paste into the console, done!</li>
-</ol>**
+</ol>
